@@ -6,19 +6,20 @@
 - [x] Initialize backend Spring Boot project with .gitignore  
   Commit: a637434
 - [x] Database connection (MySQL)  
-  Configured XAMPP MySQL (root@localhost:3306/it342_uy_db), JPA/Hibernate auto DDL
+  Commit: b53a6f3
 - [x] Password encryption (BCrypt)  
-  BCryptPasswordEncoder via Spring Security
+  Commit: b53a6f3
 - [x] POST /api/auth/register  
-  AuthController.register() → AuthService.registerUser()
+  Commit: b53a6f3
 - [x] POST /api/auth/login  
-  AuthController.login() → AuthService.loginUser() returns JWT
+  Commit: b53a6f3
 - [x] POST /api/auth/logout  
-  AuthController.logout() → AuthService.logoutUser()
+  Commit: b53a6f3
 - [x] GET /api/user/me (protected)  
-  UserController.getCurrentUser() — JWT-protected endpoint
+  Commit: b53a6f3
 
 ## IN-PROGRESS
+- [ ] Initialize React project
 
 ## TODO
 
