@@ -2,10 +2,11 @@
 
 ## DONE
 - [x] Create repository structure (/web, /backend, /docs, /mobile)  
-  Commit: da9c834
-
+  Commit: da9c834 
+- [x] Initialize backend Spring Boot project with .gitignore 
+  Commit: a637434
+  
 ## IN-PROGRESS
-- [] Initialize backend Spring Boot project with .gitignore 
 
 ## TODO
 
