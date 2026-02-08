@@ -24,19 +24,19 @@
 
 ### Web Application – ReactJS
 - [x] Initialize React project (Vite + React + Tailwind CSS)
-  Commit: 
+  Commit: aac771b
 - [x] Register page
-  Commit: 
+  Commit: aac771b
 - [x] Login page
-  Commit: 
+  Commit: aac771b
 - [x] Dashboard/Profile page (protected)
-  Commit: 
+  Commit: aac771b
 - [x] Logout functionality
-  Commit: 
+  Commit: aac771b
 
 ### Documentation
 - [x] Update README.md details (Project description, Technologies used, etc.)
-  Commit: 
+  Commit: aac771b
 
 ## IN-PROGRESS
 
