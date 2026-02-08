@@ -66,7 +66,5 @@ spring.log
 .DS_Store
 Thumbs.db
 
-# Package lock files (optional if you want clean Node installs)
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
+# API test files
+*.http

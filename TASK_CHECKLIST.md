@@ -1,8 +1,12 @@
 # TASK CHECKLIST
 
 ## DONE
+
+### General
 - [x] Create repository structure (/web, /backend, /docs, /mobile)  
   Commit: da9c834 
+
+### Backend – Spring Boot
 - [x] Initialize backend Spring Boot project with .gitignore  
   Commit: a637434
 - [x] Database connection (MySQL)  
@@ -18,17 +22,26 @@
 - [x] GET /api/user/me (protected)  
   Commit: b53a6f3
 
-## IN-PROGRESS
-- [ ] Initialize React project
-
-## TODO
-
 ### Web Application – ReactJS
-- [ ] Initialize React project
-- [ ] Register page
-- [ ] Login page
-- [ ] Dashboard/Profile page (protected)
-- [ ] Logout functionality
+- [x] Initialize React project (Vite + React + Tailwind CSS)
+  Commit: aac771b
+- [x] Register page
+  Commit: aac771b
+- [x] Login page
+  Commit: aac771b
+- [x] Dashboard/Profile page (protected)
+  Commit: aac771b
+- [x] Logout functionality
+  Commit: aac771b
 
 ### Documentation
-- [ ] Update FRS PDF (ERD, UML, Web UI screenshots)
+- [x] Update README.md details (Project description, Technologies used, etc.)
+  Commit: aac771b
+
+## IN-PROGRESS
+
+### Documentation
+- [] Update FRS PDF (ERD, UML, Web UI screenshots)
+  Commit: 
+
+## TODO
