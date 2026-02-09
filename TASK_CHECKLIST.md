@@ -23,25 +23,23 @@
   Commit: b53a6f3
 
 ### Web Application – ReactJS
-- [x] Initialize React project (Vite + React + Tailwind CSS)
+- [x] Initialize React project (Vite + React + Tailwind CSS)  
   Commit: aac771b
-- [x] Register page
+- [x] Register page  
   Commit: aac771b
-- [x] Login page
+- [x] Login page  
   Commit: aac771b
-- [x] Dashboard/Profile page (protected)
+- [x] Dashboard/Profile page (protected)  
   Commit: aac771b
-- [x] Logout functionality
+- [x] Logout functionality  
   Commit: aac771b
 
 ### Documentation
-- [x] Update README.md details (Project description, Technologies used, etc.)
+- [x] Update README.md details (Project description, Technologies used, etc.)  
   Commit: aac771b
+- [] Update FRS PDF (ERD, UML, Web UI screenshots)   
+  Commit: 
 
 ## IN-PROGRESS
-
-### Documentation
-- [] Update FRS PDF (ERD, UML, Web UI screenshots)
-  Commit: 
 
 ## TODO

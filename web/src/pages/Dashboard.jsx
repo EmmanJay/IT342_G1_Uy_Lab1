@@ -12,7 +12,7 @@ export default function Dashboard() {
         {/* Welcome Banner */}
         <div className="bg-indigo-600 rounded-2xl p-8 text-white mb-8">
           <h2 className="text-2xl font-bold">
-            Welcome back, {user?.firstName} {user?.lastName}! 👋
+            Welcome back, {user?.firstName} {user?.lastName}!
           </h2>
           <p className="mt-2 text-indigo-200">
             This is your dashboard. Navigate using the menu above.
