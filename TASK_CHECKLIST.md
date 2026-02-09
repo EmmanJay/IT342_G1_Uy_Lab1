@@ -38,7 +38,7 @@
 - [x] Update README.md details (Project description, Technologies used, etc.)  
   Commit: aac771b
 - [] Update FRS PDF (ERD, UML, Web UI screenshots)   
-  Commit: 
+  Commit: 806ca90
 
 ## IN-PROGRESS
 
