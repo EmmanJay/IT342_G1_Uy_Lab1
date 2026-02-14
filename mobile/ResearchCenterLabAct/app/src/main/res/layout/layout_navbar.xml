@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:background="@color/white"
+    android:elevation="2dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingHorizontal="16dp">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="sans-serif-medium"
+        android:text="ResearchCenter"
+        android:textColor="@color/indigo_700"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <!-- Nav buttons — default inactive style; active tab set programmatically -->
+    <TextView
+        android:id="@+id/nav_dashboard"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:paddingHorizontal="12dp"
+        android:text="@string/dashboard"
+        android:textColor="@color/gray_400"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/nav_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:paddingHorizontal="12dp"
+        android:text="@string/profile"
+        android:textColor="@color/gray_400"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/nav_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/bg_button_logout"
+        android:paddingHorizontal="14dp"
+        android:paddingVertical="8dp"
+        android:text="@string/logout"
+        android:textColor="@color/red_600"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+</LinearLayout>
